@@ -44,12 +44,15 @@ nav ul li a {
 }
 
 nav ul li ul {
-    display: block;
+    display: none;
     position: absolute;
     background-color: rgba(36, 48, 2, 0.753);
     padding: 8px;
     border-radius: 0px 0px 10px 10px
 }
+
+nav ul li:hover ul {
+    display: block;
 
 nav ul li ul li {
     width: 180px;
