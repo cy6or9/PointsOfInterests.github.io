@@ -60,6 +60,7 @@ nav ul li ul {
 
 nav ul li:hover ul {
     display: block;
+}
 
 nav ul li ul li {
     width: 180px;
@@ -71,6 +72,7 @@ nav ul li ul li a {
 }
 
 nav ul li ul li a:hover {
-    background-color: rgba(5, 141, 0, 0.357);
+    background-color: rgba(240, 255, 140, 0.282);
+    color: rgb(0, 0, 0);
 }
 
