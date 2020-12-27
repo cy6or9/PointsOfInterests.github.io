@@ -5,7 +5,9 @@
 
 body {
     background-image: url(https://raw.githubusercontent.com/cy6or9/cy6or9.github.io/master/images/waterfall.gif);
-    background-size: 110%;
+    background-size: 110% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 h1 {
