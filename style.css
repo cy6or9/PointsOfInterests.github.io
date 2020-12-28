@@ -41,6 +41,15 @@ p {
     color: olivedrab;
     text-align: left;
     background-color: rgba(36, 48, 2, 0.753);
+    
+}
+
+li {
+    background-color: rgba(36, 48, 2, 0.753);
+    font-family: monospace;
+    font-size: 12px;
+}
+
 }
 
 nav {
