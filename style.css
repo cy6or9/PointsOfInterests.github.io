@@ -41,13 +41,13 @@ p {
     color: olivedrab;
     text-align: left;
     background-color: rgba(36, 48, 2, 0.753);
-    
+    padding: 5px 10px;
 }
 
 li {
     background-color: rgba(36, 48, 2, 0.753);
     font-family: monospace;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 nav {
@@ -55,6 +55,7 @@ nav {
     height: 24px;
     background-color: rgba(36, 48, 2, 0.753);
 }
+
 nav p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: olivedrab;
@@ -108,5 +109,6 @@ nav ul li ul li a {
 nav ul li ul li a:hover {
     background-color: rgba(240, 255, 140, 0.282);
     color: rgb(0, 0, 0);
+    border-radius: 0px 0px 10px 10px
 }
 
