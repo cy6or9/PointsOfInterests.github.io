@@ -58,7 +58,7 @@ nav {
 }
 
 nav p {
-    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: olivedrab;
     font-size: 12px;
     line-height: 24px;
@@ -79,7 +79,7 @@ nav ul li {
 }
 
 nav ul li a {
-    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: olivedrab;
     font-size: 18px;
     padding: 0px 24px;
