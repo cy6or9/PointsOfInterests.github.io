@@ -73,7 +73,7 @@ nav ul {
 
 nav ul li {
     float: left;
-	width: 150px;
+	width: 100px;
     height: 20px;
     list-style: none;
     position: relative;
@@ -83,7 +83,7 @@ nav ul li a {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: olivedrab;
     font-size: 14px;
-    padding: 0px 14px;
+    padding: 0px 20px;
     text-decoration: none;
 }
 
