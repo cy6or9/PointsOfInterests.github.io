@@ -61,7 +61,6 @@ nav {
 nav p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: olivedrab;
-    width: 100%;
     font-size: 12px;
     line-height: 24px;
     float: left;
@@ -74,7 +73,7 @@ nav ul {
 
 nav ul li {
     float: left;
-	width: 196px;
+	width: 150px;
     height: 20px;
     list-style: none;
     position: relative;
