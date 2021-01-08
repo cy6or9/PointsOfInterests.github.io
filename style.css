@@ -61,6 +61,7 @@ nav {
 nav p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: olivedrab;
+    width: 100%;
     font-size: 12px;
     line-height: 24px;
     float: left;
