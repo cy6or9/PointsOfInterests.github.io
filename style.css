@@ -16,7 +16,6 @@ h1 {
     font-family: monospace;
     font-size: 14px;
     color: olivedrab;
-    text-align: left;
     background-color: rgba(36, 48, 2, 0.753);
     padding: 5px 10px;
 }
@@ -32,7 +31,6 @@ h3 {
     font-family: monospace;
     font-size: 48px;
     color: olivedrab;
-    text-align: left;
     background-color: rgba(36, 48, 2, 0.753);
 }
 
