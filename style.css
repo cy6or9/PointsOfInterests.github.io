@@ -14,7 +14,7 @@ body {
 
 h1 {
     font-family: monospace;
-    font-size: 14px;
+    font-size: 16px;
     color: olivedrab;
     background-color: rgba(36, 48, 2, 0.753);
     padding: 5px 10px;
@@ -37,7 +37,7 @@ h3 {
 
 li {
     
-    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 nav {
