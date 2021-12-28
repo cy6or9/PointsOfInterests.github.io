@@ -8,7 +8,7 @@ body {
     background-image: url(https://raw.githubusercontent.com/cy6or9/cy6or9.github.io/master/images/DSC_0016-02.jpeg);
     background-size: 125% auto;
     background-repeat: no-repeat;
-    scroll-behavior: unset;
+    scroll-behavior: smooth;
 }
 
 h1 {
