@@ -9,7 +9,7 @@ body {
     background-size: 125% auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: initial;
+    background-position: center;
 }
 
 h1 {
