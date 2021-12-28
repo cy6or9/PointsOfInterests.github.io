@@ -6,9 +6,8 @@
 body {
     background-color: rgb(99, 95, 75);
     background-image: url(https://raw.githubusercontent.com/cy6or9/cy6or9.github.io/master/images/DSC_0016-02.jpeg);
-    background-size: 125% auto;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-size: contain;
 }
 
 h1 {
